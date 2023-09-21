@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Sleeping",
+      "author": "Vignesh",
+      "about": "Sleep is a normal body process that allows your body and brain to rest. At first glance, sleep is deceptively simple. For most people, it's just a matter of getting comfortable, closing your eyes and drifting into slumber.",
+      "id": 1
+    },
+    {
+      "title": "Cricket",
+      "author": "Suren",
+      "about": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps.",
+      "id": 2
+    },
+    {
+      "title": "Youtube",
+      "author": "Manojh",
+      "about": "A YouTube description is a section where a content creator can provide additional information about their video content. This can include content descriptions, links to related content, social media or website links, and more.",
+      "id": 3
+    },
+    {
+      "title": "Bachelors",
+      "author": "Sabari",
+      "about": "A bachelor's degree or baccalaureate is an undergraduate academic degree awarded by colleges and universities upon completion of a course of study lasting three to six years. The two most common bachelor's degrees are the Bachelor of Arts and the Bachelor of Science",
+      "id": 4
+    }
+  ]
+}
